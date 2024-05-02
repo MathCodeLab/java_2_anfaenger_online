@@ -1,6 +1,6 @@
 # Programmieren mit Java [#2]: (Praesenz | Online)
 
-Die Kapitel sind so organisiert, dass ihr einen klaren Lernweg habt.
+Die Kapitel sind so organisiert, dass ihr einen groben ueberblick bekommt.
 
 ## Projektstruktur
 
