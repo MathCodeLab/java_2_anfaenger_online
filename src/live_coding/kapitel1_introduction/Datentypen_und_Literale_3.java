@@ -55,5 +55,7 @@ public class Datentypen_und_Literale_3 {
 
         String m2 = "java";
 
+
+
     }
 }
