@@ -131,7 +131,8 @@ public class Operatoren_5 {
         // 3. Beispiele Relationale Operatoren
         System.out.println("---------- 3. Relationale Operatoren ----------");
         // Variablen erstellen
-        int f = 7, k = 11;
+        int f = 7;
+        int k = 11;
 
         // Wert von f und k
         System.out.println("f ist " + f + " und k ist " + k);
