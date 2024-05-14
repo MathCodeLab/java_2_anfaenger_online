@@ -15,7 +15,7 @@ public class DatenTypenUndLiterale_6 {
 
 
         String vorname1 = "Muhammad";
-        String vorname2 = "ALi";
+        String vorname2 = "Ali";
         String nachname = "Klay";
         String seperator = " ";
 
@@ -23,6 +23,6 @@ public class DatenTypenUndLiterale_6 {
 
         System.out.println(vorUndNachname);
         System.out.println(vorname1 + seperator + vorname2 + seperator + nachname);
-        System.out.println("Muhammad" + " " + "ALi" + " " + "Klay");
+        System.out.println("Muhammad" + " " + "Ali" + " " + "Klay");
     }
 }
