@@ -1,6 +1,6 @@
-package kapitel2_flusskontrolle;
+package live_coding.kapitel2_flusskontrolle;
 
-public class ifElse_Anweisung {
+public class ifElse_Anweisung_1 {
     public static void main(String[] args) {
 
         //  Kinder unter 10 Jahren dürfen kein Handy kaufen.
