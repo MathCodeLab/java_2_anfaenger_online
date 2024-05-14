@@ -1,6 +1,6 @@
 package live_coding.kapitel1_introduction;
 
-public class test {
+public class VariableOrder_5 {
     static char k;
     public static void main(String[] args) {
         System.out.println(k);

@@ -74,6 +74,5 @@ public class IfElse_Anweisung_1 {
 
         // Im obigen Beispiel haben wir eine Variable namens "number". Hier überprüft der Testausdruck "number > 0", ob die Zahl größer als 0 ist.
         // Da der Wert der Zahl 10 ist, wird der Testausdruck als wahr ausgewertet. Daher wird der Code innerhalb des if-Blocks ausgeführt.
-
     }
 }
