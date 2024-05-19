@@ -24,5 +24,6 @@ public class DatenTypenUndLiterale_6 {
         System.out.println(vorUndNachname);
         System.out.println(vorname1 + seperator + vorname2 + seperator + nachname);
         System.out.println("Muhammad" + " " + "Ali" + " " + "Klay");
+
     }
 }
