@@ -11,7 +11,7 @@ package live_coding.kapitel2_flusskontrolle;
 //      3). for each
 //      4). do-while
 
-public class WhileSchleife {
+public class WhileSchleife_2 {
     public static void main(String[] args) {
         // Hausaufgabe: print "i love java" 1000 mal;
 
