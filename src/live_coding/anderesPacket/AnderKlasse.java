@@ -1,6 +1,6 @@
 package live_coding.anderesPacket;
 
-import live_coding.kapitel6_OOP2.PrivateKlasse;
+//import live_coding.kapitel6_OOP2.PrivateKlasse;
 import live_coding.kapitel6_OOP2.OOP_Zugriffsmodifikatoren_1;
 
 class Tier{
