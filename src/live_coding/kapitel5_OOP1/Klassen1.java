@@ -1,4 +1,4 @@
-package live_coding.kapitel5_OOP;
+package live_coding.kapitel5_OOP1;
 
 //int[] arr1 = new int[3];
 //arr1[0] = 7;

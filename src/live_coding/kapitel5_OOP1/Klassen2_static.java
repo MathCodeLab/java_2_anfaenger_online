@@ -1,4 +1,4 @@
-package live_coding.kapitel5_OOP;
+package live_coding.kapitel5_OOP1;
 
 // class erstellen
 class Tier{
